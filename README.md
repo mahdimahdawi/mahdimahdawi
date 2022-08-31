@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 - 🤳 I' m Mahdi Mahdawi
-- 🧰 Open To work
+- 🧰 Open To work as a Full Stack Developer
 - 📌 I'm From Afghanistan
 - 🔭 I’m currently Micronout
 - 🌱 I’m currently learning Remote...
