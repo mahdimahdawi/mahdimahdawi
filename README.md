@@ -19,8 +19,6 @@
 - 🧰 Open To work as a Full Stack Developer
 - 📌 I'm From Afghanistan
 - 🔭 I’m currently Micronout
-- 🌱 I’m currently learning Remote...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with overone
 - 💬 Ask me about: mahdimahdwi2018@gmail.com
 - 📫 How to reach me: +93706033540
