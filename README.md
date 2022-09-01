@@ -16,7 +16,7 @@
 </div>
 
 
-### Hi there 👋
+### About Me 👋
 - 🤳 I' m Mahdi Mahdawi
 - 🧰 Open To work as a Full Stack Developer
 - 📌 I'm From Afghanistan
